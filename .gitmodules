@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/p14/fitness-app-client
+[submodule "cms"]
+	path = cms
+	url = https://github.com/p14/fitness-app-cms
